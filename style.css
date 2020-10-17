@@ -1,0 +1,26 @@
+#createPw {
+    font-size: 35px;
+    background-color: red;
+    color: white;
+    height: 100px;
+    width: 50%;
+    border-radius: 25px;
+}
+
+h2{
+    font-size: 65px;
+    text-align: left;
+    color: navy
+
+}
+
+#passwordDisplay{
+    font-size: 35px;
+    text-align: center;
+    margin: auto;
+    width: 75% ;
+    height: 200px;
+    border-style: dashed;
+    border-color: navy;
+}
+
